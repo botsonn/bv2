@@ -29,7 +29,7 @@ from pyrogram import (
 
 #حقوق احمد @H1HHIH - @ELHYBA
 # تطوير مودي الهيبه اذا ما ذكرت مصدر بنحكح امك @ELHYBA - @SOURCE_ZE 
-ownerID = int("6581896306") #ايدي الادمن 
+ownerID = int("7085943284") #ايدي الادمن 
 api_hash = Config.API_HASH #ايبي هاش 
 api_id = Config.APP_ID #ايبي ايدي
 token = Config.TG_BOT_TOKEN #البوت
@@ -37,8 +37,8 @@ token = Config.TG_BOT_TOKEN #البوت
 
 bot = Client(
   'bot'+token.split(":")[0],
-  19312827, #ايبي ايدي
- '84da7f08e87849853b2fa6728e4192a2', #ايبي هاش
+  28094107, #ايبي ايدي
+ '1ff3955d2e53a2f76c1599b09e8f7dc2', #ايبي هاش
   bot_token=token, in_memory=True
 )
 app = Client(
